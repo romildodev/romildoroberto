@@ -1,8 +1,12 @@
 
 <div align="center">
-<h2> Seja, bem vindo!</h2>
+<h2>Hi  Seja, bem vindo!</h2>
 </div>
 </br>
+
+![Romildo](https://user-images.githubusercontent.com/115588398/195363831-d1c510b6-69b1-4d3f-a1fb-452e2f7e8117.png)
+
+
 <div align="center">
   <div align="center">
   <a href="https://github.com/romildodev">
