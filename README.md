@@ -39,7 +39,6 @@
  </div
    
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/romildodev/count.svg" /></p>
 
 
 ![snake gif](https://github.com/romildodev/romildoroberto/blob/output/github-contribution-grid-snake.svg)
