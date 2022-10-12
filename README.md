@@ -29,6 +29,7 @@
 
 
 ## ⚡ GitHub Stats
+
 <div align="center">
   <a href="https://github.com/romildodev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romildodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -38,9 +39,10 @@
 </br>
 
 ![snake gif](https://github.com/romildodev/romildoroberto/blob/output/github-contribution-grid-snake.svg)
-     
-## 🚀 Find me
 </div>
+
+## 🚀 Find me
+
  <div align="center">
    <a href = "https://api.whatsapp.com/send?phone=5583987907259&text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Vim%20pelo%20seu%20perfil%20do%20GitHub. " target = "_ blank"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
    <a href = "https://www.facebook.com/romildo.roberto.39/" target = "_ blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
