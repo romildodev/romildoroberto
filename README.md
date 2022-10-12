@@ -2,7 +2,7 @@
 <div align="center">
 <h2>Hi, I am Romildo!</h2>
 </div>
-<p>Fullstack web developer, passionate about technology, interested in clean code practices and Software <b>Software Engineering Student</b>.<p/>
+<p>Fullstack web developer, passionate about technology, interested in clean code practices and <b>Software Engineering Student</b>.<p/>
 <p>I currently work as a developer at <a href="https://www.miriri.com.br/">Miriri Alimentos</a><p/>
 <p>I'm studying <b>PHP</b>, <b>JS</b> and front-end technologies: <b>Figma</b>, <b>Adobe XD</b>, <b>NodeJS</b> and others.</p>
 </br>
