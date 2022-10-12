@@ -10,7 +10,7 @@
 ![Romildo](https://user-images.githubusercontent.com/115588398/195363831-d1c510b6-69b1-4d3f-a1fb-452e2f7e8117.png)
 
 
-## 🚀💻 Technologies & Tools
+## 💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -44,7 +44,7 @@
 
 ![snake gif](https://github.com/romildodev/romildoroberto/blob/output/github-contribution-grid-snake.svg)
      
-## ⚡ Find me
+## 🚀 Find me
 
  <div align="center">
    <a href = "https://api.whatsapp.com/send?phone=5583987907259&text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Vim%20pelo%20seu%20perfil%20do%20GitHub. " target = "_ blank"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
