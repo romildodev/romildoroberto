@@ -24,6 +24,16 @@
  </div>
 </br>
 
+ ### Connect with me:
+
+ <a href = "https://api.whatsapp.com/send?phone=5514996070485&text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Vim%20pelo%20seu%20perfil%20do%20GitHub. " target = "_ blank"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
+ <a href = "https://www.facebook.com/leeh310801/" target = "_ blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+ <a href = "https://www.instagram.com/leeh.xp/?hl=pt" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
+ <a href = "https://www.linkedin.com/in/let%C3%ADcia-jord%C3%A3o-011389197/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/>
+ <a href = "mailto:info@example.com?&subject=&cc=&bcc=&body=leticiajordaoxp@gmail.com%0A"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+ <a href = "https://dev.to/leehxd" > ![icons8-dev-48](https://user-images.githubusercontent.com/82847453/128442068-90264e01-d9be-47b9-ac4a-f4d96038b612.png)
+##
+   
  <div align="center">
   <a href="https://www.instagram.com/formandodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:romildoroberto123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
