@@ -1,7 +1,8 @@
 
 <div align="center">
-<h2>Hi  Seja, bem vindo!</h2>
+<h2>Hi, I am Romildo!</h2>
 </div>
+<p>Fullstack developer, passionate about technology, interested in clean code practices and Software Engineering student.<p/>
 </br>
 
 ![Romildo](https://user-images.githubusercontent.com/115588398/195363831-d1c510b6-69b1-4d3f-a1fb-452e2f7e8117.png)
