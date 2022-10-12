@@ -2,9 +2,9 @@
 <div align="center">
 <h2>Hi, I am Romildo!</h2>
 </div>
-<p>Fullstack developer, passionate about technology, interested in clean code practices and Software Engineering student.<p/>
+<p>Fullstack developer, passionate about technology, interested in clean code practices and Software <b>Engineering student</b>.<p/>
 <p>I currently work as a developer at <a href="https://www.miriri.com.br/">Miriri Alimentos</a><p/>
-<p>I'm studying PHP, JS and front-end technologies: Figma, Adobe XD, NodeJS and others.</p>
+<p>I'm studying PHP, JS and front-end technologies: <b>Figma</b>, <b>Adobe XD</b>, <b>NodeJS</b> and others.</p>
 </br>
 
 ![Romildo](https://user-images.githubusercontent.com/115588398/195363831-d1c510b6-69b1-4d3f-a1fb-452e2f7e8117.png)
