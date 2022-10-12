@@ -31,11 +31,6 @@
  <a href = "mailto:romildoroberto123@gmail.com?&subject=&cc=&bcc=&body=Olá, Romildo!%0A"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
  </div>
    
- <div align="center">
-  <a href="https://www.instagram.com/formandodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:romildoroberto123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="Link linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/romildodev/count.svg" /></p>
 
