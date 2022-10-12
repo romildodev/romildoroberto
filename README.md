@@ -28,6 +28,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
+## ⚡ GitHub Stats
 <div align="center">
   <div align="center">
   <a href="https://github.com/romildodev">
