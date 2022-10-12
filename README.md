@@ -29,7 +29,7 @@
  <a href = "https://www.facebook.com/romildo.roberto.39/" target = "_ blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
  <a href = "https://www.linkedin.com/in/romildo-roberto-amorim-400471180/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/>
  <a href = "mailto:romildoroberto123@gmail.com?&subject=&cc=&bcc=&body=Olá, Romildo!%0A"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
- <a href = "https://dev.to/romildodev" > ![icons8-dev-48](https://user-images.githubusercontent.com/82847453/128442068-90264e01-d9be-47b9-ac4a-f4d96038b612.png)
+ <a href = "https://dev.to/romildodev" > ![icons8-dev-48](https://user-images.githubusercontent.com/82847453/128442068-90264e01-d9be-47b9-ac4a-f4d96038b612.png)>
    </div>
    
  <div align="center">
