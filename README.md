@@ -33,7 +33,7 @@
    <a href = "mailto:romildoroberto123@gmail.com?&subject=&cc=&bcc=&body=Olá, Romildo!%0A"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </div>
  
-     <div align="center">
+ <div align="center">
    <img src="https://img.icons8.com/color/48/000000/git.png"/>
    <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
