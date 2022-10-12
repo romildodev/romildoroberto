@@ -24,12 +24,13 @@
  </div>
 </br>
 
+<div align="center">
  <a href = "https://api.whatsapp.com/send?phone=5583987907259&text=Ol%C3%A1%2C%20Tudo%20bem%3F%20Vim%20pelo%20seu%20perfil%20do%20GitHub. " target = "_ blank"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
  <a href = "https://www.facebook.com/romildo.roberto.39/" target = "_ blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
  <a href = "https://www.linkedin.com/in/romildo-roberto-amorim-400471180/"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/>
  <a href = "mailto:romildoroberto123@gmail.com?&subject=&cc=&bcc=&body=Olá, Romildo!%0A"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
  <a href = "https://dev.to/romildodev" > ![icons8-dev-48](https://user-images.githubusercontent.com/82847453/128442068-90264e01-d9be-47b9-ac4a-f4d96038b612.png)
-##
+   </div>
    
  <div align="center">
   <a href="https://www.instagram.com/formandodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
